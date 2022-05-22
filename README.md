@@ -7,7 +7,7 @@
 Data diambil dari https://sig.bps.go.id/bridging-kode/index pada **22 Mei 2022** menggunakan [script python](/scripts).
 Kode Wilayah yang direlasikan adalah Kode Wilayah Kerja Statistik pada tahun 2020 Semester 2 dengan Kode Wilayah Adminitstrasi pada tahun 2020.
 
-Format file yang tersedia:
+## Format File
 
 - [Excel](/excel/)
 - [CSV](/csv/)
@@ -15,9 +15,9 @@ Format file yang tersedia:
 
 ## Level
 
-- Provinsi
-- Kabupaten/Kota
-- Kecamatan
+- Provinsi ([Excel](/excel/provinsi.xlsx)/[CSV](/csv/provinsi.csv)/[JSON](/json/provinsi.json))
+- Kabupaten/Kota ([Excel](/excel/kabkota.xlsx)/[CSV](/csv/kabkota.csv)/[JSON](/json/provinsi.json))
+- Kecamatan ([Excel](/excel/kecamatan.xlsx)/[CSV](/csv/kecamatan.csv)/[JSON](/json/kecamatan.json))
 
 ## Kolom
 
