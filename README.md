@@ -2,7 +2,7 @@
 
 > **Warning**
 >
-> Jika ada kesalahan data atau semacamnya silakan menuliskan [Issues](https://github.com/zakiego/Kode-Wilayah-Administrasi-Indonesia-Relasi-BPS-Kemendagri/issues).
+> Jika ada kesalahan data atau semacamnya silakan menuliskan [Issues](https://github.com/zakiego/Kode-Wilayah-Administrasi-Indonesia-Relasi-BPS-Kemendagri/issues/new).
 
 Data diambil dari https://sig.bps.go.id/bridging-kode/index pada **22 Mei 2022** menggunakan [script python](/scripts).
 Kode Wilayah yang direlasikan adalah Kode Wilayah Kerja Statistik pada tahun 2020 Semester 2 dengan Kode Wilayah Administrasi pada tahun 2020.
